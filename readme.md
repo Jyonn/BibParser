@@ -2,7 +2,7 @@
 
 #### Aug 13th, 2021, Jyonn at Hong Kong
 
-[BibParser]() is a tool to parse, format, merge and export bibtex file.
+[BibParser](https://github.com/Jyonn/BibParser) is a tool to parse, format, merge and export bibtex file.
 
 ```python
 
@@ -22,9 +22,9 @@ file = BibFile.merge(
     conflict_shortname_compare='title'
 )
 
-file.export(
+file.merge(
     'a.bib',
-    select_attr=['title', 'author', 'year', 'booktitle', 'journal']
+    selected_attrs=['title', 'author', 'year', 'booktitle', 'journal']
 )
 
 ```

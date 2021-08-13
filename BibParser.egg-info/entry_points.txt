@@ -1,0 +1,5 @@
+[console_scripts]
+bibanalyser = BibParser.command:analyse
+bibmerger = BibParser.command:export
+bibparser = BibParser.command:main
+

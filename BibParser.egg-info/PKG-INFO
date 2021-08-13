@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: BibParser
+Version: 0.0.1
+Summary: BibParser, More Than A Parser
+Home-page: https://github.com/Jyonn/BibParser
+Author: Jyonn Liu
+Author-email: i@6-79.cn
+License: MIT Licence
+Description: [BibParser](https://github.com/Jyonn/BibParser) is a tool to parse, format, merge and export bibtex file.
+Keywords: bib,bibtex,parser,latex,reference
+Platform: any

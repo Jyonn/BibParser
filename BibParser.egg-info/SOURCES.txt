@@ -1,0 +1,13 @@
+setup.py
+BibParser/__init__.py
+BibParser/bib.py
+BibParser/command.py
+BibParser/common.py
+BibParser/entry.py
+BibParser/parser.py
+BibParser/reference.py
+BibParser.egg-info/PKG-INFO
+BibParser.egg-info/SOURCES.txt
+BibParser.egg-info/dependency_links.txt
+BibParser.egg-info/entry_points.txt
+BibParser.egg-info/top_level.txt
